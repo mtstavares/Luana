@@ -48,24 +48,24 @@ const App = () => {
           className="swiper-container"
         >
           <SwiperSlide>
-            <img src="/4.jpg" alt="Foto 1" />
+            <img src="./4.jpg" alt="Foto 1" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/5.jpg" alt="Foto 2" />
+            <img src="./5.jpg" alt="Foto 2" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/6.jpg" alt="Foto 3" />
+            <img src="./6.jpg" alt="Foto 3" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/7.jpg" alt="Foto 3" />
+            <img src="./7.jpg" alt="Foto 4" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/19.jpg" alt="Foto 3" />
+            <img src="./19.jpg" alt="Foto 5" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/25.jpg" alt="Foto 3" />
+            <img src="./25.jpg" alt="Foto 6" />
           </SwiperSlide>
-          
+
         </Swiper>
       </div>
 
